@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152690934359",
+    "project_id": "euro-trade-44178",
+    "storage_bucket": "euro-trade-44178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152690934359:android:a1d945305e9ed8db149912",
+        "android_client_info": {
+          "package_name": "com.fattesom.nokka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152690934359-fk5n2bjr2mp2tda4ejh61asl3s7e2f9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-RoCnfkzzBi_MOrwkw2oUad9qs6umrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152690934359-fk5n2bjr2mp2tda4ejh61asl3s7e2f9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

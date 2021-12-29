@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Euro Trade</string>
+
+
+    <string name="basicUrl">https://terrariol.uno/eurotrade.php</string>
+    <string name="secure_get_parametr">JpueuVPCPv</string>
+    <string name="secure_key">JvGD8KRUUn</string>
+    <string name="dev_tmz_key">fWbrOPxlyM</string>
+    <string name="adb_key">Dwmprmo1UQ</string>
+    <string name="autoZone_key">rNQjmr6lMb</string>
+    <string name="vpn_key">Zn113xROpL</string>
+    <string name="battery_key">xRtFCdGB7S</string>
+    <string name="model_key">IGVEyfvBHQ</string>
+    <string name="manufacture_key">NmQgTdbQES</string>
+    <string name="lockpin_key">HuOpwtmegj</string>
+    <string name="referrer_key">CRJnjhRJp5</string>
+    <string name="gadid_key">AYW6akyowW</string>
+    <string name="deeplink_key">cTPk6cWlfS</string>
+    <string name="source_key">BqQphe00Iu</string>
+    <string name="af_id_key">4gsENC1lXn</string>
+    <string name="ad_id_key">LfhmqmRpv2</string>
+    <string name="adset_id_key">Yr5IkfLNBh</string>
+    <string name="campaign_id_key">o3AJxyRI2B</string>
+    <string name="app_campaign_key">gYZc9SzJBn</string>
+    <string name="adset_key">WeBGxEYPFM</string>
+    <string name="adgroup_key">Fs9FNlaDMq</string>
+    <string name="orig_cost_key">JsHzFCgBJN</string>
+    <string name="af_siteid_key">AxhOkv9nq0</string>
+
+    <string name="app_id">619673766037127</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Euro Trade</string>
+    <string name="nav_header_subtitle">Simple application to work with your finances</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
